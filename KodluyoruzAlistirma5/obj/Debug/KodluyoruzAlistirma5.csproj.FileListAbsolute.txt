@@ -1,0 +1,6 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAlistirma5\bin\Debug\KodluyoruzAlistirma5.exe.config
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAlistirma5\bin\Debug\KodluyoruzAlistirma5.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAlistirma5\bin\Debug\KodluyoruzAlistirma5.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAlistirma5\obj\Debug\KodluyoruzAlistirma5.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAlistirma5\obj\Debug\KodluyoruzAlistirma5.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAlistirma5\obj\Debug\KodluyoruzAlistirma5.pdb
