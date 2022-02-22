@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAdSoyad\bin\Debug\KodluyoruzAdSoyad.exe.config
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAdSoyad\bin\Debug\KodluyoruzAdSoyad.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAdSoyad\bin\Debug\KodluyoruzAdSoyad.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAdSoyad\obj\Debug\KodluyoruzAdSoyad.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAdSoyad\obj\Debug\KodluyoruzAdSoyad.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAdSoyad\obj\Debug\KodluyoruzAdSoyad.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzAdSoyad\obj\Debug\KodluyoruzAdSoyad.pdb
