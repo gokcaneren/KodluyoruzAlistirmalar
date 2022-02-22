@@ -1,0 +1,2 @@
+# KodluyoruzAlistirmalar
+Kodluyoruz1.HaftaAlistirmalari
